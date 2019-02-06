@@ -32,6 +32,7 @@ See [here](https://github.com/electron-userland/electron-packager#readme) for an
 
 ## Authors
 This software was created by [Erik Boesen](https://github.com/ErikBoesen) for [Team 1418](https://github.com/frc1418). See [Contributors](https://github.com/frc1418/VictiScout/graphs/contributors) for further information.
+[![Team 1418](https://img.shields.io/badge/Team-1418-d12727.svg)](http://1418.team)
 
 ## License
 VictiScout is available under the [MIT License](LICENSE).
